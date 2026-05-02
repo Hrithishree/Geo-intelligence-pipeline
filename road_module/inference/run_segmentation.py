@@ -1,0 +1,3 @@
+"""
+Runs only segmentation model.
+"""
